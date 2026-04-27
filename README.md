@@ -68,7 +68,6 @@ High-performance Full-Stack & Blockchain Specialist. I don't just "build" apps; 
 ## 🔗 Bridge into the Matrix
 
 <p align="center">
-  <a href="https://killian-guerin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://shop-block-s-dev.vercel.app"><img src="https://img.shields.io/badge/Store-Shop--Block--S--Dev-blue?style=for-the-badge&logo=shopify&logoColor=white" /></a>
   <a href="https://t.me/dev_web3_blocks"><img src="https://img.shields.io/badge/Telegram-Join%20Channel-26A8EA?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://discord.gg/jesVUFBzjB"><img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
