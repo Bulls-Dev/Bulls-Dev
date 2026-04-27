@@ -31,23 +31,40 @@ High-performance Full-Stack & Blockchain Specialist. I don't just "build" apps; 
 ### ⛓️ L1 / L2 Ecosystems
 `Solana (Rust/Anchor)` • `Ethereum (Solidity)` • `BSC` • `Base` • `Polygon`
 
-### 💻 Development Suite
+### 💻 Development Suite & Web3 Arsenal
+
 <table align="center">
   <tr>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=ts" width="50" /><br />TypeScript</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=rust" width="50" /><br />Rust</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=js" width="50" /><br />JavaScript</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=rust" width="50" /><br />Rust / Anchor</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=solidity" width="50" /><br />Solidity</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nextjs" width="50" /><br />NextJS</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nodejs" width="50" /><br />NodeJS</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="50" /><br />Python</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=cpp" width="50" /><br />C++</td>
   </tr>
   <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=react" width="50" /><br />React</td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tailwind" width="50" /><br />Tailwind</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=react" width="50" /><br />React.js</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nextjs" width="50" /><br />Next.js</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tailwind" width="50" /><br />Tailwind CSS</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=threejs" width="50" /><br />Three.js</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=framer" width="50" /><br />Framer Motion</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=html" width="50" /><br />HTML5/CSS3</td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nodejs" width="50" /><br />Node.js</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=express" width="50" /><br />Express</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=fastapi" width="50" /><br />FastAPI</td>
+    <td align="center" width="120"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50" /><br />Ethers / Web3.js</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=ipfs" width="50" /><br />IPFS</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql" width="50" /><br />MySQL</td>
+  </tr>
+  <tr>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postgres" width="50" /><br />PostgreSQL</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mongodb" width="50" /><br />MongoDB</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="50" /><br />Docker</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=aws" width="50" /><br />AWS</td>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux" width="50" /><br />Linux</td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="50" /><br />Git / CI-CD</td>
   </tr>
 </table>
 
