@@ -8,7 +8,7 @@
 
 ---
 
-## ⚡ System Manifesto: "Code is Law. Security is Mandatory."
+## ⚡ "Code is Law. Security is Mandatory."
 
 High-performance Full-Stack & Blockchain Specialist. I don't just "build" apps; I architect scalable, battle-hardened DeFi protocols where innovation meets offensive security.
 
